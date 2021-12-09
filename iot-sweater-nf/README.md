@@ -31,7 +31,7 @@ If you don't have Visual Studio installed you can download a free copy of the co
    ![Picture of Extensions menu in Vidsual Studio](../assets/manage-extensions.png)  
 
    * Search for nanoFramework extension and install it you will have to restart Visual Studio to finish the installation  
-   ![Picture of search for extension dialog and nanoFramework extension](../assets/search-for-nanoframework.png)  
+   ![Picture of search for extension dialog and nanoFramework extension](../assets/search-for-nanoFramework.png)  
 
 1. After install is complete open the Device Explorer by going to menu item: View > Other Windows > Device Explorer
    if your device is connected to your computer you should see something like this: (note that your device might not show up here until the next step)  
